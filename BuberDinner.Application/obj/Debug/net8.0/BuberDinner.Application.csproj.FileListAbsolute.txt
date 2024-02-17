@@ -1,0 +1,15 @@
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.deps.json
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.pdb
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfo.cs
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.pdb
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDin.E7CA8231.Up2Date

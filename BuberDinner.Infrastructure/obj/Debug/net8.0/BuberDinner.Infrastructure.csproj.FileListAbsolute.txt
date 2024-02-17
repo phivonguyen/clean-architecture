@@ -1,0 +1,17 @@
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Infrastructure.deps.json
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.AssemblyInfo.cs
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\refint\BuberDinner.Infrastructure.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.pdb
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\ref\BuberDinner.Infrastructure.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Application.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Domain.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Application.pdb
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Domain.pdb
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDin.DE1B2DD7.Up2Date
