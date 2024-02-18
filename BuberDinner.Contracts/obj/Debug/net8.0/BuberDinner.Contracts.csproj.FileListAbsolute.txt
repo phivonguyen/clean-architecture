@@ -9,3 +9,4 @@ D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Contracts\obj\Debug\
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json

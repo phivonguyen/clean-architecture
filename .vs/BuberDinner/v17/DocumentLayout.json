@@ -30,8 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -55,8 +75,7 @@
               "RelativeToolTip": "BuberDinner.Infrastructure\\Persistence\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T22:03:36.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T22:03:36.82Z"
             },
             {
               "$type": "Document",
@@ -68,8 +87,7 @@
               "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\AuthenticationService.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAowEkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T21:46:20.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T21:46:20.349Z"
             },
             {
               "$type": "Document",
@@ -81,8 +99,7 @@
               "RelativeToolTip": "BuberDinner.Application\\Common\\Interfaces\\Persistentence\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T21:44:36.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T21:44:36.428Z"
             },
             {
               "$type": "Document",
@@ -94,28 +111,7 @@
               "RelativeToolTip": "BuberDinner.Domain\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T21:39:02.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-02-17T21:39:02.711Z"
             }
           ]
         }
