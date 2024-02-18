@@ -10,3 +10,4 @@ D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.sourcelink.json
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.csproj.AssemblyReference.cache

@@ -3,6 +3,7 @@ using System.Text.Json;
 
 namespace BuberDinner.Api.Middleware;
 
+//Custom Error Handling Middleware
 public class ErrorHandlingMiddleware
 {
     private readonly RequestDelegate _next;

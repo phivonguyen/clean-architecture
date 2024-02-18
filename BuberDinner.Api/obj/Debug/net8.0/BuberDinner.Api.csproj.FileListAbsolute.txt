@@ -39,3 +39,5 @@ D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDin.4FE96569.Up2Date
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\ErrorOr.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentResults.dll
