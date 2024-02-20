@@ -41,3 +41,9 @@ D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\obj\Debug\net8.0
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\ErrorOr.dll
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentResults.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.Core.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
