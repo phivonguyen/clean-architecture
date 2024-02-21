@@ -1,0 +1,7 @@
+@host = http://localhost:5113
+
+GET {{host}}/dinners
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMjYwNGQ3ZS0yNWI0LTRjNGItOGQ3My1jMmZhYzIxZjdjNTgiLCJnaXZlbl9uYW1lIjoiQW1pY2hhaWkiLCJmYW1pbHlfbmFtZSI6Ik1hbnRpbmFiYW5kIiwianRpIjoiYTVmZWQ5MDktZjk4Ny00NGY2LTgxNjgtNTIwMTg2YmI1YWU3IiwiZXhwIjoxNzA4NTQwNDY5LCJpc3MiOiJCdWJlckRpbm5lciIsImF1ZCI6IkJ1YmVyRGlubmVyIn0.TKKH0cGYXah4B2JlBx2-l-CwUU1od1RABtdWmK585Go
+
+
+###

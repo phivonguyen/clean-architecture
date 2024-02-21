@@ -47,3 +47,10 @@ D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.dll
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.Core.dll
 D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Old Project\API Test\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
