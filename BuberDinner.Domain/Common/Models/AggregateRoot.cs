@@ -1,8 +1,12 @@
 namespace BuberDinner.Domain.Common.Models;
 
-public abstract class AggregateRoot : Entity<int>
+public abstract class AggregateRoot<TId> : Entity<TId>
+    where TId : notnull
 {
-    protected AggregateRoot(int id) : base(id)
+    protected AggregateRoot(TId id) : base(id)
     {
+
     }
+
+    // Additional properties and methods specific to AggregateRoot
 }

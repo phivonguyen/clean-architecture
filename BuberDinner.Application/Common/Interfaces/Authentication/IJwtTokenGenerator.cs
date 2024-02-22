@@ -1,4 +1,4 @@
-using BuberDinner.Domain.Entities;
+using BuberDinner.Domain.User;
 
 namespace BuberDinner.Application.Common.Interfaces.Authentication
 {
@@ -6,6 +6,6 @@ namespace BuberDinner.Application.Common.Interfaces.Authentication
     {
         string GenerateToken(
             User user
-            );
+        );
     }
 }
