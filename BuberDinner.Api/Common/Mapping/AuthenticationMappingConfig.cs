@@ -15,6 +15,7 @@ public class AuthenticationMappingConfig : IRegister
         config.ForType<RegisterRequest, RegisterCommand>();
 
         config.ForType<AuthenticationResult, AuthenticationResponse>()
+            .Map(dest => dest.Id, src => src.User.Id.Value)
             .Map(dest => dest, src => src.User);
     }
 }

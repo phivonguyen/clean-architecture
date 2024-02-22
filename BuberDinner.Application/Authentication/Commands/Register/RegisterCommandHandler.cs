@@ -4,7 +4,7 @@ using BuberDinner.Application.Common.Interfaces.Persistence;
 using BuberDinner.Domain.Common.Errors;
 using ErrorOr;
 using MediatR;
-using BuberDinner.Domain.User;
+using BuberDinner.Domain.UserAggregate;
 
 namespace BuberDinner.Application.Authentication.Commands.Register;
 
@@ -28,7 +28,6 @@ public class RegisterCommandHandler :
         {
             //throw new DuplicateEmailException();
             //return new DuplicateEmailError();
-
             //return Result.Fail<AuthenticationResult>(new[] { new DuplicateEmailError() });
             return Errors.User.DuplicateEmail;
         }

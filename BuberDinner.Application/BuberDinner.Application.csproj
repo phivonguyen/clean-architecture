@@ -1,21 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-
-
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-
-
   <ItemGroup>
     <Compile Remove="Common\Interfaces\Persistent\**" />
     <EmbeddedResource Remove="Common\Interfaces\Persistent\**" />
     <None Remove="Common\Interfaces\Persistent\**" />
   </ItemGroup>
-
+  
   <ItemGroup>
     <ProjectReference Include="..\BuberDinner.Domain\BuberDinner.Domain.csproj" />
   </ItemGroup>
